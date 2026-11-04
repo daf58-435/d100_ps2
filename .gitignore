@@ -1,0 +1,16 @@
+# Data files
+*.csv
+*.sqlite
+
+# Python
+__pycache__/
+*.pyc
+.mypy_cache/
+
+# Pixi environment
+.pixi/
+
+# Secrets
+.env
+.env.*
+kaggle.json
